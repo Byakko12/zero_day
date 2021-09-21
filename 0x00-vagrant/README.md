@@ -1,5 +1,5 @@
 **vagrant project**
 
-#uname
+# uname
 
 the output of uname is linux
